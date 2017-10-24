@@ -1,3 +1,3 @@
 # ForestFireSimulator
-This is a small project to develop my skills with python. I developed the logic for a forest fire simulator and developed a
-console-based display for the project.
+This is a small project to develop my skills with python. This program takes in a density of the forest and a chance that the fire will
+catch and spread and uses this information to simulate a forest fire. This program comes with a console-based display, but a GUI-based application could be developed or this could ne used as a backend to collect data.
